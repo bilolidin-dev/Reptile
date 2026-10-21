@@ -20,7 +20,3 @@
 - HTML5
 - JavaScript
 - Canvas 2D
-
-## Благодарность
-
-Идея и исходная реализация: [The Coding Wizard](https://www.youtube.com/@TheCodingWizard).
